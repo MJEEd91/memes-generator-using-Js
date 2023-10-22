@@ -4,7 +4,7 @@ This is a simple web application that displays a random meme fetched from the [M
 
 ## Usage
 
-1. Visit the Meme Website at [[[https://mjeed91.github.io/meme-website/](https://mjeed91.github.io/meme-website/](https://main--teal-pasca-9e995d.netlify.app]](https://main--teal-pasca-9e995d.netlify.app/).
+1. Visit the Meme Website at (https://main--teal-pasca-9e995d.netlify.app/).
 
 2. Enjoy viewing random memes that refresh every 5 seconds!
 
