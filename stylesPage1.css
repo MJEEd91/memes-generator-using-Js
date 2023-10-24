@@ -1,0 +1,61 @@
+body {
+    background-image: url('backgroundForPage1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Noto Sans Arabic', sans-serif; 
+}
+
+h1 {
+    font-family: 'Playpen Sans', sans-serif; 
+    color: #ffffff;
+    background-color: #000000;
+}
+
+p {
+    font-family: 'Noto Sans Arabic', sans-serif; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: normal;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+a.button {
+    display: inline-block;
+    background-color: #3498db;
+    padding: 10px 20px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+    border-radius: 5px;
+    margin: 20px;
+    transition: background-color 0.3s;
+}
+
+a.button:hover {
+    background-color: #2980b9;
+}
+
+a.youtube-button {
+    position: absolute;
+    bottom: 10px; 
+    left: 10px; 
+    display: inline-block;
+    background-color: #FF0000; 
+    padding: 10px 20px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px; 
+    border-radius: 5px;
+    transition: background-color 0.3s; 
+}
+
+a.youtube-button:hover {
+    background-color: #CC0000; /* Darker red on hover */
+}
+
