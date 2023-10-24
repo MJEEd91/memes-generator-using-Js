@@ -22,5 +22,5 @@ function getMeme() {
         .catch(error => console.error("Error fetching meme:", error));
 }
 
-//setInterval(getMeme, 5000); // Refresh every 5 seconds
+
 
